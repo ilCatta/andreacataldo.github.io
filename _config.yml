@@ -3,7 +3,7 @@ title: Andrea Cataldo
 author: Andrea Cataldo
 description: "No hugs, some learning"
 baseurl: ""
-url: "https://andreacataldo.com"
+url: https://andreacataldo.github.io # "https://andreacataldo.com"
 baseurl: "/andreacataldo.github.io" # Imposta a "" se il sito è nella root del dominio
 
 date_format: "%b %-d, %Y"
