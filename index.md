@@ -17,7 +17,6 @@ I can usually be found in a programming IDE or studying.
 I'm bullish on, and a big booster of:
 
 - Critical Thinking. Analyze, not accept. Examine, not ignore. Understand, not assume.
-- Personal finance: Plan, don't guess. Track, don't ignore. Invest, don't speculate.
 
 <!-- 
 - 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
